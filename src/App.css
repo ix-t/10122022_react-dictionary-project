@@ -1,9 +1,10 @@
-.container {
-  margin: 20px 50px;
+.app .container {
+  margin: 0 auto;
 }
 
-.app-header {
+.app .app-header {
   text-align: center;
-  font-size: 30px;
+  font-size: 32px;
+  font-weight: bold;
   margin: 10px;
 }

@@ -1,0 +1,18 @@
+.synonyms {
+  display: inline;
+  padding: 0;
+}
+
+.synonyms ul {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+.synonyms li {
+  display: inline-block;
+  font-size: 13px;
+  padding-right: 20px;
+  margin: 25px 0 0;
+  line-height: 0;
+}
