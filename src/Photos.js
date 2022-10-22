@@ -5,7 +5,7 @@ export default function Photos(props) {
   if (props.photos) {
     return (
       <section className="photos">
-        <div className="row">
+        <div className="row align-items-center">
           {props.photos.map(function (photo, index) {
             return (
               <div className="col-4" key={index}>

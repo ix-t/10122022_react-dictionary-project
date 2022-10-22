@@ -4,18 +4,20 @@
 
 .phonetic a {
   color: #000;
+  background: #dfe9f3;
   font-size: 12px;
   text-decoration: none;
   padding: 10px 20px;
   margin-right: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid none;
   border-radius: 20px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   transition: all 150ms ease-in-out;
 }
 
 .phonetic a:hover {
   color: #fff;
-  background: green;
+  background: #979797;
 }
 
 .phonetic .text {
